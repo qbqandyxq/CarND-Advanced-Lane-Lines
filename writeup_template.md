@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/calibration6.png "Undistorted"
-[image2]: ./output_images/calibration7.png "Undistorted"
+[image1]: ./output_images/calibration6.jpg "Undistorted"
+[image2]: ./output_images/calibration7.jpg "Undistorte2"
 [image3]: ./examples/binary_combo_example.jpg "Binary Example"
 [image4]: ./examples/warped_straight_lines.jpg "Warp Example"
 [image5]: ./examples/color_fit_lines.jpg "Fit Visual"
